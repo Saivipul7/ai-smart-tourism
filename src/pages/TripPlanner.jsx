@@ -210,7 +210,7 @@ export default function TripPlanner() {
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
-            justify-content: 'center',
+            justifyContent: 'center',
             textAlign: 'center',
             gap: '1.5rem'
           }}>

@@ -112,7 +112,7 @@ export default function Dashboard() {
                     height: '32px',
                     display: 'flex',
                     alignItems: 'center',
-                    justify-content: 'center',
+                    justifyContent: 'center',
                     cursor: 'pointer',
                     fontSize: '0.9rem'
                   }}

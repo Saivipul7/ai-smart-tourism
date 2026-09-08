@@ -33,7 +33,7 @@ export default function Home() {
         minHeight: '82vh',
         display: 'flex',
         alignItems: 'center',
-        justify-content: 'center',
+        justifyContent: 'center',
         textAlign: 'center',
         padding: '3rem 1.5rem',
         background: `

@@ -48,7 +48,7 @@ export default function Profile() {
             background: 'linear-gradient(135deg, var(--color-primary), var(--color-secondary))',
             display: 'flex',
             alignItems: 'center',
-            justify-content: 'center',
+            justifyContent: 'center',
             fontSize: '2rem',
             fontWeight: 800,
             color: '#fff'
